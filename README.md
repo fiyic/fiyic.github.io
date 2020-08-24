@@ -1,2 +1,2 @@
-# fiyic.github.io
-My Blog
+# My Blog
+http://fiyic.github.io/
